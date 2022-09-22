@@ -1,4 +1,4 @@
-name: rir develop(new rdp)
+name: rir develop(new chrome remote desktop rdp)
  
 on: 
   workflow_dispatch:
